@@ -5,5 +5,5 @@ function happyHolidays (String) {
   return "Happy holidays!"
 }
 function happyHolidaysTo ($name){
-  return 'Happy holidays, ${name}!'
+  return 'Happy holidays,' ${name}!
 }
